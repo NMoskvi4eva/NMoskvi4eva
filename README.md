@@ -4,6 +4,8 @@
 💻 Працюю з: **HTML, CSS, JavaScript, Git, Java**  
 🌱 Зараз вивчаю: **React, SASS CSS, TypeScript**
 
+🧑‍🎓 Освіта: Національний університет «Одеська політехніка» 2023 – 2028
+
 🔍 Шукаю можливості долучитися до цікавих проєктів і працювати у команді.
 
 📫 Як зв’язатися: [nadia.moskvi4eva@gmail.com](mailto:nadia.moskvi4eva@gmail.com)  
