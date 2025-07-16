@@ -1,16 +1,33 @@
-## Hi there 👋
+## Привіт! 👋
 
-<!--
-**NMoskvi4eva/NMoskvi4eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мене звати Надія, я Junior Frontend Developer з України 🇺🇦  
+💻 Працюю з: **HTML, CSS, JavaScript, Git, Java**  
+🌱 Зараз вивчаю: **React, SASS CSS, TypeScript**
 
-Here are some ideas to get you started:
+🔍 Шукаю можливості долучитися до цікавих проєктів і працювати у команді.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Як зв’язатися: [nadia.moskvi4eva@gmail.com](mailto:nadia.moskvi4eva@gmail.com)  
+🌐 Моє портфоліо: **у процесі підготовки**
+
+---
+
+### 🛠️ **Мій стек**
+- HTML, CSS (SASS)
+- JavaScript (ES6+), TypeScript
+- React (в процесі вивчення)
+- Git, GitHub
+- Java (базовий рівень)
+- Linux, VS Code, IntelliJ IDEA
+
+---
+
+### 🚀 **Мої проєкти**
+Тут ти знайдеш посилання на мої навчальні проєкти:
+- TODO App — у розробці
+- Weather App — у розробці
+- Portfolio Site — у розробці
+
+---
+
+Дякую, що завітали на мій профіль! 💙
+
